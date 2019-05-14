@@ -1,6 +1,5 @@
 from Dokuz_Tas_Tahta import Dokuz_Tas_Tahta
 from player_move import get_player_move
-from computer_move import get_computer_move
 from computer_move2 import get_computer_move2
 from minimax import minimax
 from degerlendirme_fonksiyonu import basit_degerlendirme_fonksiyonu
