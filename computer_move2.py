@@ -1,7 +1,7 @@
 import random
 from Dokuz_Tas_Tahta import Dokuz_Tas_Tahta
 from minimax import minimax
-from Dokuz_Tas_Tahta import Dokuz_Tas_Tahta
+
 
 def make_best_move(board, depth, player):
 
